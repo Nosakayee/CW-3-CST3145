@@ -1,0 +1,99 @@
+ [
+    {
+      "title": "Introduction to Algebra",
+      "subject": "Maths",
+      "location": "Class",
+      "price": 100,
+      "avaliability": 5,
+      "icon": "bi bi-calculator-fill"
+    },
+    {
+      "title": "Learning to Paint",
+      "subject": "Art",
+      "location": "In-Person",
+      "price": 85,
+      "avaliability": 5,
+      "icon": "bi bi-brush"
+    },
+    {
+      "title": "Concept of Drawing",
+      "subject": "Art",
+      "location": "In-Person",
+      "price": 40,
+      "avaliability": 5,
+      "icon": "bi bi-pencil"
+    },
+    {
+      "title": "Translation to English Language",
+      "subject": "English",
+      "location": "Class",
+      "price": 245,
+      "avaliability": 5,
+      "icon": "bi bi-translate"
+    },
+    {
+      "title": "We Were Liars",
+      "subject": "English",
+      "location": "Book",
+      "price": 130,
+      "avaliability": 5,
+      "icon": "bi bi-book"
+    },
+    {
+      "title": "The Blue Book of Chess",
+      "subject": "English",
+      "location": "Book",
+      "price": 120,
+      "avaliability": 5,
+      "icon": "bi bi-book-fill"
+    },
+    {
+      "title": "Further Mathematics",
+      "subject": "Maths",
+      "location": "Class",
+      "price": 25,
+      "avaliability": 5,
+      "icon": "fa fa-plus"
+    },
+    {
+      "title": "History of Leonardo da Vinci",
+      "subject": "Art",
+      "location": "Online",
+      "price": 255,
+      "avaliability": 5,
+      "icon": "bi bi-info"
+    },
+    {
+      "title": "Databases and SQL",
+      "subject": "CST3145",
+      "location": "DKP",
+      "price": 130,
+      "avaliability": 5,
+      "icon": "bi bi-filetype-sql"
+    },
+    {
+      "title": "Introduction to Java",
+      "subject": "CST3145",
+      "location": "DKP",
+      "price": 320,
+      "avaliability": 5,
+      "icon": "bi bi-filetype-java"
+    },
+    {
+      "title": "Swimming Lessons",
+      "subject": "Sport",
+      "location": "In-Person",
+      "price": 500,
+      "avaliability": 5,
+      "icon": "bi bi-water"
+    },
+    {
+      "title": "Introduction to Frontend Frameworks",
+      "subject": "CST3145",
+      "location": "DKP",
+      "price": 90,
+      "avaliability": 5,
+      "icon": "bi bi-filetype-html"
+    }
+  ]
+  
